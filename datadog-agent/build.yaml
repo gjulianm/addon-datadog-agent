@@ -7,5 +7,5 @@ build:
 labels:
   org.opencontainers.image.title: "Home Assistant Add-on: Datadog Agent"
   org.opencontainers.image.description: "Runs the Datadog Agent as a HAOS addon"
-  org.opencontainers.image.source: "https://github.com/rapdev-io/addon-datadog-agent"
+  org.opencontainers.image.source: "https://github.com/gjulianm/addon-datadog-agent"
   org.opencontainers.image.licenses: "Apache License 2.0"
