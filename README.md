@@ -1,5 +1,7 @@
 # Datadog Agent Home Assistant add-on repository
 
+Note: forked from https://github.com/ALenfant/addon-datadog-agent, which in turn is forked from https://github.com/rapdev-io/addon-datadog-agent, with some custom fixes
+
 This addon stands up the [Datadog agent](https://docs.datadoghq.com/agent/?tab=cloud_and_container) as a docker container in your HA environment.
 
 Good for:
